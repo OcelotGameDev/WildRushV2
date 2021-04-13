@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.25",
+	"Category": "",
+	"Description": "",
+	"TargetPlatforms": [
+		"AllDesktop",
+		"MacNoEditor",
+		"WindowsNoEditor",
+		"Lumin",
+		"WindowsNoEditorWin32"
+	]
+}
